@@ -2,7 +2,7 @@ repo_name: AbitathaRoy/joomla-cms
 report_id: ce4b46f85edd80f4e050f287a0c8953f
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T11:29:58+00:00'
+timestamp: '2024-02-29T19:51:45+00:00'
 requested_by: dgrammatiko
 provider: github
 branch: 5.0-dev
@@ -65,7 +65,7 @@ tools:
   last_updated_by: Allon Moritz
   last_updated_on: 2023-08-19 16:40:45.000000000 Z
 - name: Awesomplete
-  description: 'JavaScript library to create an autocomplete widget '
+  description: JavaScript library to create an autocomplete widget
   website_url: https://leaverou.github.io/awesomplete/
   version: 1.1.5
   license: MIT
